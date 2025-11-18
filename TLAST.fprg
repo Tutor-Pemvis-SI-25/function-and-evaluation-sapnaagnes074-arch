@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="TLAST"/>
+        <attribute name="authors" value="Sapna Agnes"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-18 09:16:25 PM"/>
+        <attribute name="created" value="U2FwbmEgQWduZXM7REVTS1RPUC03TTZVTEdHOzIwMjUtMTEtMTg7MDg6MTM6MjEgUE07MzM3Ng=="/>
+        <attribute name="edited" value="U2FwbmEgQWduZXM7REVTS1RPUC03TTZVTEdHOzIwMjUtMTEtMTg7MDk6MTY6MjUgUE07MjszNDkz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="deskripsi, kodematkul, matkul, dosen, deadline, keterangan, tingkatkesulitan, harideadline, statustugas, prioritas" type="String" array="True" size="10"/>
+            <declare name="jumlahtugas" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
